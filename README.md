@@ -12,3 +12,5 @@ independently or forgot the place / resource that inspired.
 - **Time based AMM (definitely not original):** Allow for gas efficient DCA and
   large order splitting while massively increasing the cost of TWAP manipulation
   by requiring attackers to take on cost of price offset during manipulation.
+  (other resources: [TWAMM - Paradigm](https://www.paradigm.xyz/2021/07/twamm),
+  [Mean Finance](https://mean.finance/create) unsure if MMEV resistant tho)
