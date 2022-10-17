@@ -14,3 +14,6 @@ independently or forgot the place / resource that inspired.
   by requiring attackers to take on cost of price offset during manipulation.
   (other resources: [TWAMM - Paradigm](https://www.paradigm.xyz/2021/07/twamm),
   [Mean Finance](https://mean.finance/create) unsure if MMEV resistant tho)
+- **Crypto Splitwise:** Expense splitting app like Splitwise that allows for
+  easy accounting and splitting of expenses in groups except it also allows you
+  to easily settle debts, especially useful for larger groups
